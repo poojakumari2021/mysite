@@ -49,15 +49,15 @@ p{
     height: 150px;
     width: 150px;
     position: absolute;
-    right: 300px;
+    right: 200px;
     top: 30px;
 }
 .idea1{
     height: 150px;
     width: 150px;
     position: absolute;
-    left: 250px;
-    bottom: 300px;
+    left: 200px;
+    bottom: 30px;
     top: 10px;
 }
 .skill-row{
